@@ -32,53 +32,39 @@
 </p>
 <br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
-<table>
-  <tr>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/codeigniter-5-1175246.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/laravel-3-1175147.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png?raw=true" width="200"></td>
-      <td><img src="https://camo.githubusercontent.com/91c7c8fed6e4e9ccbb25bc941030bc604ea787c09ca2569377ed4d4840872a73/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6a71756572792d372d313137353135322e706e67?raw=true" width="200"></td>
-      <td><img src="https://camo.githubusercontent.com/63a0652105f53ca10fd7bb584ec3326ffda6c6988ca944bb21f6ba0d764bf8be/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f68746d6c352d34302d313137353139332e706e67?raw=true" width="200"></td>
-      <td><img src="https://camo.githubusercontent.com/16243b90ca0de67f1183e67f41fc6383ca998d81c3dd7166b32eda4db307f919/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f637373332d31312d313137353233392e706e67" width="200"></td>
-      <td><img src="https://camo.githubusercontent.com/98c835566bae35eab51c05d004bf08bdbcb287186f492e1aeb20fa37f71ca7ca/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f736173732d31332d313137353039322e706e67" width="200"></td>
-      <td><img src="https://camo.githubusercontent.com/2297aeb5bcb2b38bb190fcae27e1bf9b0fe08699446c23d48585443881bce4c3/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6769742d31382d313137353231392e706e67" width="200"></td>
-  </tr>
-  <tr>
-    <td><img src="https://camo.githubusercontent.com/7dd0ebf7a227b0f848f30a3dbd647a682075031e1010b19a7a41e366d281ce2b/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f626f6f7473747261702d3232363037372e706e67?raw=true" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/heroku-11-1175214.png?raw=true" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/sourcetree-2-1175090.png?raw=true" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/extjs-458279.png?raw=true" width="200"></td>
-  </tr>
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=richlontos&show_icons=true&hide_border=true" />
 
-</table>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="8%" src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<br />
+<code><img width="6%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code>
+<code><img width="6%" src="https://cdn-icons-png.flaticon.com/512/919/919825.png"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<br />
+<code><img width="5%" src="https://www.clipartmax.com/png/middle/470-4707396_javascript-icon-html-css-js-icons.png"></code>
+<code><img width="5%" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png"></code>
+<code><img width="6%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIMEiQoI0PG-oQ_M0iF8IbDVzGacP-WmIBvVHKYhEIYQ&s"></code>
+</p>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jundi-husni/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/richard-lontos/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/zeeid">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/richlontos">
 		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/zeeidev/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/zeeidev">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/c/ZeeiDeveloper">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://play.google.com/store/apps/dev?id=5506644742288227696&hl=in&gl=US">
 					<img src="https://cdn.iconscout.com/icon/free/png-256/playstore-2002562-1687192.png" width="40" height="40"></a>
       </div>
 
 </p>
 
-------
 
-Credit: [zeeid](https://github.com/zeeid)
-
-Last Edited on: 17/10/2022
